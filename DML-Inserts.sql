@@ -1,0 +1,15 @@
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('camiseta', 'blusa feminina tie dye', 'estamada', 'p', 69.90, 2);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('camiseta', 'blusa feminina tie dye', 'estamada', 'm', 69.90, 2);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('camiseta', 'blusa feminina tie dye', 'estamada', 'g', 69.90, 2);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('calçado', 'tênis all star', 'azul', '35', 199.90, 2);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('calçado', 'tênis all star', 'azul', '37', 199.90, 1);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('calçado', 'tênis all star', 'rosa', '36', 199.90, 2);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('calçado', 'tênis all star', 'preto', '38', 199.90, 1);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('calçado', 'tênis all star', 'vermelho', '34', 199.90, 2);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('calçado', 'tênis all star', 'vermelho', '37', 199.90, 1);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('short', 'short jeans', 'azul', '38', 99.90, 1);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('short', 'short jeans', 'branco', '40', 109.90, 2);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('short', 'short jeans', 'preto', '36', 89.90, 1);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('short', 'short jeans', 'azul', '42', 89.90, 2);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('camisa', 'camisa com botões', 'verde', '38', 69.90, 1);
+INSERT INTO produtos ( tipo, descricao, cor, tamanho, preco, estoque )  VALUES ('camisa', 'camisa com botões', 'lilás', '40', 69.90, 2);
